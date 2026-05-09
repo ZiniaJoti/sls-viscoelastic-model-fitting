@@ -19,7 +19,7 @@ The fitted parameters are:
 - `E2` : Maxwell spring elastic modulus
 - `eta` : Dashpot viscosity coefficient
 
-## Data Source
+#### Data Source
 
 The experimental datasets used in this project were obtained as part of coursework conducted in the MechanoBiology and BioMechanics (MBBM) Lab at NJIT.  
 The data are shared here solely for educational and academic demonstration purposes related to viscoelastic modeling and parameter fitting.
@@ -53,7 +53,7 @@ The notebook will:
 - generate fitted plots,
 - print the fitted material parameters.
 
-## Acknowledgement
+### Acknowledgement
 
 This project was completed as part of the Mechanobiology course at NJIT.  
 The author would like to thank Professor Farid Alisafaei for his guidance and instruction throughout the course.
