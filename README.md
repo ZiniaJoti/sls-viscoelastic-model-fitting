@@ -44,3 +44,10 @@ The notebook will:
 - fit the Standard Linear Solid model,
 - generate fitted plots,
 - print the fitted material parameters.
+
+## Acknowledgement
+
+This project was completed as part of the Mechanobiology course at NJIT.  
+The author would like to thank Professor Farid Alisafaei for his guidance and instruction throughout the course.
+
+Special thanks to Professor Farid Alisafaei's lab: MechanoBiology and BioMechanics (MBBM) for providing the experimental setup and laboratory resources used for the creep and stress relaxation experiments.
