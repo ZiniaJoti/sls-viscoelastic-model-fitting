@@ -19,6 +19,14 @@ The fitted parameters are:
 - `E2` : Maxwell spring elastic modulus
 - `eta` : Dashpot viscosity coefficient
 
+## Data Source
+
+The experimental datasets used in this project were obtained as part of coursework conducted in the MechanoBiology and BioMechanics (MBBM) Lab at NJIT.  
+The data are shared here solely for educational and academic demonstration purposes related to viscoelastic modeling and parameter fitting.
+
+
+Please do not reuse or redistribute the experimental data for commercial purposes without permission from the course instructor or laboratory.
+
 ### How to Run
 1. Clone the repository:
 ```bash
@@ -50,4 +58,4 @@ The notebook will:
 This project was completed as part of the Mechanobiology course at NJIT.  
 The author would like to thank Professor Farid Alisafaei for his guidance and instruction throughout the course.
 
-Special thanks to Professor Farid Alisafaei's lab: MechanoBiology and BioMechanics (MBBM) for providing the experimental setup and laboratory resources used for the creep and stress relaxation experiments.
+Special thanks to Professor Farid Alisafaei's lab: [MechanoBiology and BioMechanics (MBBM) Lab](https://www.mbbm-lab.com/) for providing the experimental setup and laboratory resources used for the creep and stress relaxation experiments.
